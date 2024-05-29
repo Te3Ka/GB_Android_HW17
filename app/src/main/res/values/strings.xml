@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework17</string>
+    <string name="text_details">Details</string>
+    <string name="text_rover_name">Rover: name</string>
+    <string name="text_camera_name">Camera: Name</string>
+    <string name="text_sol_date">Sol: date</string>
+    <string name="text_earth_date_earth_date">Earth Date: earth date</string>
+</resources>
